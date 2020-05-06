@@ -1,0 +1,34 @@
+{
+  "statusMessage": "OK",
+  "httpStatusCode": 200,
+  "data": {
+    "member": {
+      "id": 14660,
+      "keynumber": "1209779",
+      "birthday": "July 06, 1986",
+      "gsm": "08026806825",
+      "email": "uokonubin@gmail.com",
+      "address": "C/O OBONGA INIKA ROSICRUCIAN PARK, CALABAR",
+      "gender": "Male",
+      "title": "MR",
+      "country": "NIGERIA",
+      "currentcycle": 59,
+      "nextpaiddate": "2022-06-30T00:00:00",
+      "middlename": "EDET",
+      "firstname": "UBIN",
+      "surname": "OKONUBIN",
+      "lastpaymenton": "2019-12-12",
+      "postaladdress": "C/O OBONGA INIKA ROSICRUCIAN PARK, CALABAR",
+      "eduQual": "Bachelors",
+      "active": true
+    },
+    "memberDashBoardDetails": {
+      "keyNumber": "1209779",
+      "lastLogin": "2020-04-27T17:19:41",
+      "cycleNumber": 59,
+      "degreeOfStudy": "Degree 9",
+      "lastReadMonograph": "Mandamus 5"
+    },
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxMjA5Nzc5IiwiY3JlYXRlZCI6MTU4ODA2NDYyMDMyMCwiZXhwIjoxNTg4MDg2MjIwfQ.Nqj7boWkwWfCFFHlE_9j3ZCpQ13mefA7pjtujTCNvei5VB2co9-JVVm-j4aBWSWweoCRIQGTsWr8lcET7BKgzQ"
+  }
+}
